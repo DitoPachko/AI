@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.product {
+  display: inline-block;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+.product img {
+  width: 150px;
+  height: 150px;
+}
+.cart {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: #ff9800;
+  padding: 10px;
+}
